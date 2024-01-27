@@ -1,0 +1,24 @@
+/Users/jakubkoprowski/Desktop/kalkulator/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1
+/Users/jakubkoprowski/Desktop/kalkulator/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.deps.json
+/Users/jakubkoprowski/Desktop/kalkulator/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.runtimeconfig.json
+/Users/jakubkoprowski/Desktop/kalkulator/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
+/Users/jakubkoprowski/Desktop/kalkulator/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb
+/Users/jakubkoprowski/Desktop/kalkulator/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubkoprowski/Desktop/kalkulator/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/jakubkoprowski/Desktop/kalkulator/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs
+/Users/jakubkoprowski/Desktop/kalkulator/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/jakubkoprowski/Desktop/kalkulator/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
+/Users/jakubkoprowski/Desktop/kalkulator/ConsoleApp1/obj/Debug/net7.0/refint/ConsoleApp1.dll
+/Users/jakubkoprowski/Desktop/kalkulator/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb
+/Users/jakubkoprowski/Desktop/kalkulator/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.genruntimeconfig.cache
+/Users/jakubkoprowski/Desktop/kalkulator/ConsoleApp1/obj/Debug/net7.0/ref/ConsoleApp1.dll
+/Users/jakubkoprowski/Desktop/wsb/Podstawy Programowania Laboratoria mgr. inż. Paweł Dziurewicz/kalkulator/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1
+/Users/jakubkoprowski/Desktop/wsb/Podstawy Programowania Laboratoria mgr. inż. Paweł Dziurewicz/kalkulator/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
+/Users/jakubkoprowski/Desktop/wsb/Podstawy Programowania Laboratoria mgr. inż. Paweł Dziurewicz/kalkulator/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb
+/Users/jakubkoprowski/Desktop/wsb/Podstawy Programowania Laboratoria mgr. inż. Paweł Dziurewicz/kalkulator/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubkoprowski/Desktop/wsb/Podstawy Programowania Laboratoria mgr. inż. Paweł Dziurewicz/kalkulator/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/jakubkoprowski/Desktop/wsb/Podstawy Programowania Laboratoria mgr. inż. Paweł Dziurewicz/kalkulator/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs
+/Users/jakubkoprowski/Desktop/wsb/Podstawy Programowania Laboratoria mgr. inż. Paweł Dziurewicz/kalkulator/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/jakubkoprowski/Desktop/wsb/Podstawy Programowania Laboratoria mgr. inż. Paweł Dziurewicz/kalkulator/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
+/Users/jakubkoprowski/Desktop/wsb/Podstawy Programowania Laboratoria mgr. inż. Paweł Dziurewicz/kalkulator/ConsoleApp1/obj/Debug/net7.0/refint/ConsoleApp1.dll
+/Users/jakubkoprowski/Desktop/wsb/Podstawy Programowania Laboratoria mgr. inż. Paweł Dziurewicz/kalkulator/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb
